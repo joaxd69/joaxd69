@@ -1,13 +1,12 @@
 ### hola a todos 👋
 
-Mi nombre es joaquin , tengo 23 años y soy un apasionado del codigo.Me gusta ponerme metas y superarlas con dedicacion, esfuerzo, y logras dichas metas me reconforta muchisimo. 🌱 Mi objetivo principal es adquirir muchos conocimientos sobres las tecnologias mas populares del mundo de la programacion.
+Mi nombre es joaquin , tengo 23 años y soy un apasionado del codigo.Me gusta ponerme metas y superarlas con dedicacion, esfuerzo, y lograr dichas metas me reconforta muchisimo. 🌱 Mi objetivo principal es adquirir muchos conocimientos sobres las tecnologias mas populares del mundo de la programacion.
 
-🐶📱Como se podra ver en mis repositorios, tuve experiencia sobre la creacion de un proyecto desde 0 donde aplique mis conocimientos de front end y back end.
-https://videogames-deploy-nine.vercel.app/
+🐶📱Son bienvenidos a ver mis repositorios
 
 📈 Seguire haciendo proyectos para afianzar aun mas conocimientos tech.
 
-🚀Mis conocimientos y aptitudes tech las consegui el Bootcamp intensivo de henry donde ademas de potenciar mis habilidade tech tambien potencie mis habilidades blandas.  
+🚀Mis conocimientos y aptitudes tech las consegui el Bootcamp intensivo de henry donde ademas de potenciar mis habilidades tech tambien potencie mis habilidades blandas.Actualmente me encuentro realizando pasantias y estoy abierto a propuestas laborales, o aquellas propuestas que incluyan la programacion.
   
 
 <div align="center">
