@@ -1,12 +1,5 @@
-### hola a todos 👋
-
-Mi nombre es joaquin , tengo 23 años y soy un apasionado del codigo.Me gusta ponerme metas y superarlas con dedicacion, esfuerzo, y lograr dichas metas me reconforta muchisimo. 🌱 Mi objetivo principal es adquirir muchos conocimientos sobres las tecnologias mas populares del mundo de la programacion.
-
-🐶📱Son bienvenidos a ver mis repositorios
-
-📈 Seguire haciendo proyectos para afianzar aun mas conocimientos tech.
-
-🚀Mis conocimientos y aptitudes tech las consegui el Bootcamp intensivo de henry donde ademas de potenciar mis habilidades tech tambien potencie mis habilidades blandas.Actualmente me encuentro realizando pasantias y estoy abierto a propuestas laborales, o aquellas propuestas que incluyan la programacion.
+### Hola a todos 👋
+Mi nombre es Joaquin García , tengo 24 años . Soy un apasionado de la programacion , me gusta trabajar desde el front end , pero tambien desde el back end . Me gusta estar al dia y al pendiente de las nuevas tecnologias que vayan surgiendo , estoy en busca de nuevos retos , en caso de tener una propuesta laboral o no  que involucre a la programacion , estaré encantado de oirla.  
   
 
 <div align="center">
